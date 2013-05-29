@@ -67,6 +67,7 @@
 		DE19499B1745A2C10011CFC5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DE19499D1745A2C10011CFC5 /* git_test_projectTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = git_test_projectTests.h; sourceTree = "<group>"; };
 		DE19499E1745A2C10011CFC5 /* git_test_projectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git_test_projectTests.m; sourceTree = "<group>"; };
+		DE5A1CDC174D90DC00B7D06A /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 		DE1949581745A2C10011CFC5 = {
 			isa = PBXGroup;
 			children = (
+				DE5A1CDC174D90DC00B7D06A /* Header.h */,
 				DE19496A1745A2C10011CFC5 /* git test project */,
 				DE1949971745A2C10011CFC5 /* git test projectTests */,
 				DE1949631745A2C10011CFC5 /* Frameworks */,
@@ -482,6 +484,7 @@
 				DE1949A41745A2C10011CFC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE1949A51745A2C10011CFC5 /* Build configuration list for PBXNativeTarget "git test projectTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				DE1949A71745A2C10011CFC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
