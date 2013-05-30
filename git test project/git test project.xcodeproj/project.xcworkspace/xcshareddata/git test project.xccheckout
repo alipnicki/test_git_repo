@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8CD5F13B-CDB8-4C56-BEB1-AAE4C3C2C7A4</string>
+	<string>39CED300-F889-427A-8167-F8FE7B8588A7</string>
 	<key>IDESourceControlProjectName</key>
 	<string>git test project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8FFEC815-E1DF-4910-89D7-7C78677916E1</key>
+		<key>969FC146-00CC-4BC2-92A7-0482290AB7C9</key>
 		<string>https://github.com/alipnicki/test_git_repo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>git test project/git test project.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8FFEC815-E1DF-4910-89D7-7C78677916E1</key>
+		<key>969FC146-00CC-4BC2-92A7-0482290AB7C9</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -23,14 +23,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8FFEC815-E1DF-4910-89D7-7C78677916E1</string>
+	<string>969FC146-00CC-4BC2-92A7-0482290AB7C9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8FFEC815-E1DF-4910-89D7-7C78677916E1</string>
+			<string>969FC146-00CC-4BC2-92A7-0482290AB7C9</string>
 			<key>IDESourceControlWCCName</key>
 			<string>test_git_repo</string>
 		</dict>
